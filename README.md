@@ -1,0 +1,1 @@
+# logcat-analyzer-scala
